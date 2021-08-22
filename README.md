@@ -14,7 +14,7 @@
 
 ## Download the app from [here](https://drive.google.com/file/d/1IHf1iHfubnngxBtg8hGJL5s58GSWbTK6/view?usp=sharing)
 
-## [SWACHH COMPANION PRESENTATION](https://www.canva.com/design/DAEnuZLy4EE/Qy6MHKduPfeMS57jznWT_A/view?utm_content=DAEnuZLy4EE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[SWACHH COMPANION PRESENTATION](https://www.canva.com/design/DAEnuZLy4EE/Qy6MHKduPfeMS57jznWT_A/view?utm_content=DAEnuZLy4EE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Tech
 
